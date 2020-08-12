@@ -1,0 +1,3 @@
+#!/bin/bash
+cd termux-sudo
+sudo ../switch-lan-play/build/lan-play --relay-server-addr lanplay.duckdns.org:11451
