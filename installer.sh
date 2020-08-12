@@ -18,6 +18,7 @@ cd termux-sudo
 cat sudo > /data/data/com.termux/files/usr/bin/sudo
 chmod 700 /data/data/com.termux/files/usr/bin/sudo
 cd
-wget http://switch.retrogamer.tech/patrycklm
-wget http://switch.retrogamer.tech/ps4
+wget https://raw.githubusercontent.com/patrycklm/androidlanplay/master/patrycklm
+wget https://raw.githubusercontent.com/patrycklm/androidlanplay/master/ps4
+chmod 755 patrycklm
 chmod 755 ps4
