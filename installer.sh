@@ -5,7 +5,7 @@ apt install libuv-dev -y
 pkg install cmake -y
 pkg install tsu -y
 pkg install git -y
-git clone https://github.com/spacemeowx2/switch-lan-play.git
+git clone https://github.com/patrycklm/switch-lan-play.git
 cd switch-lan-play
 mkdir build
 cd build
